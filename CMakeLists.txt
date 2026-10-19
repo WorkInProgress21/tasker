@@ -3,4 +3,4 @@ project(tasker C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(tasker main.c)
+add_executable(tasker tasker.c)
